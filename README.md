@@ -4,7 +4,7 @@ Library Management System Using Java Swing(Group Project)
 ![LMS Image](https://user-images.githubusercontent.com/48715906/124552567-5d105200-de51-11eb-9a36-e6468b892075.jpg)
 
 --------------------------------------------------------------------------------------------------------------
-Import the library_management_system.sql file the Database(MySQL Database)[this file is in the LMS folder] 
+Import the library_management_system.sql file on the Database(MySQL Database)[this file is in the LMS folder] 
 --------------------------------------------------------------------------------------------------------------
 ******************************************
 project run the : Main.java File then
